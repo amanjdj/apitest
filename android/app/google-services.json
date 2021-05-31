@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813347023343",
+    "project_id": "apitest-caaba",
+    "storage_bucket": "apitest-caaba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813347023343:android:43dd3a18d31c774c6a2e1a",
+        "android_client_info": {
+          "package_name": "com.example.apitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813347023343-946tls3kuhga97ba3erk08p7ef16oshu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfIPIpnfB26KP4nO_aldnDZD7A8LNtGG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813347023343-946tls3kuhga97ba3erk08p7ef16oshu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
